@@ -9,7 +9,7 @@ Contenido:
 - requirements.txt
 - notebooks
   - EDA.ipynb
-  - 
+  
 Las Apps que usamos: 
 - Python
 - Pandas
@@ -21,3 +21,5 @@ La aplicación web incluye:
 - Un checkbox para construir un histograma de la variable odometer.
 - Un checkbox para construir un gráfico de dispersión entre odometer y price.
 - Visualización interactiva con Plotly Express.
+
+Puedes acceder al Render en el siguiente link: https://sprint7-oc0c.onrender.com
